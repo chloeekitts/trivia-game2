@@ -1,2 +1,2 @@
-# trivia-game2
+Trivia Game
 March Madness Trivia Game
